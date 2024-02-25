@@ -1,9 +1,8 @@
-# Exercise-3d-Shaders
-# Exercise-03d-Shaders
+# Project 03 - Juicy Brick Breaker
 
 Exercise for MSCH-C220
 
-The final step adding "juicy" features to a simple brick-breaker game.
+Play as a holy ball of light with a helpful holy rectangle to defeat The Eldritch Horrors. Unfortunately, their forms are incomprehensible to the feeble human mind, so they just look like colored rectangles. 
 
 
 ## Implementation
@@ -20,8 +19,17 @@ Built using Unity
  * [Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
 
 
-## Future Development
+## Features
+ * Various colors for the breakable blocks
+ * Screen shake on hit
+ * Minor squash and stretch when the ball hits a block
+ * Custom Background
+ * Custom "player" (ball) sprite
+ * Custom Eyes that follow the ball
+ * Comet trail on the ball
+ * Particles on hit
+ * Blocks fade in and out of place when the scene starts/when they are hit
+ * Shaders on the main menu
 
-Power-ups, etc.
 
-## Created by Joseph SHriver
+## Created by Joseph Shriver
